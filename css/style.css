@@ -30,6 +30,12 @@ span, a{
   display: block;
   text-decoration: none;
 }
+.flexContainer{
+  display: flex;
+}
+.flexColumn{
+  flex-direction: column;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
